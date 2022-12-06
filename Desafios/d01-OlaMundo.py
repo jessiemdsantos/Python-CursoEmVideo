@@ -1,0 +1,4 @@
+''' Iniciando... '''
+
+print('Olá, Mundo!')
+
